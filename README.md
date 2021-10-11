@@ -1,6 +1,6 @@
 # Laravel TinyMCE Upload Image with Alibaba OSS
 
-This is an example of how to upload images using Alibaba OSS from TinyMCE
+This is an example of how to upload images using Alibaba OSS from TinyMCE <br>
 Take a look at env.example, configure this key with your own credential
 
 > OSS_KEY= <br>
